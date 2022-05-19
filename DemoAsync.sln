@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Basic Concept", "1. Basic Concept", "{56C8D40B-6FB9-4761-A3FE-B36C0C693147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConcept", "BasicConcept\BasicConcept.csproj", "{D53DF8BE-BAB3-473D-85C4-7E095CD425C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53DF8BE-BAB3-473D-85C4-7E095CD425C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DF8BE-BAB3-473D-85C4-7E095CD425C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DF8BE-BAB3-473D-85C4-7E095CD425C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DF8BE-BAB3-473D-85C4-7E095CD425C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D53DF8BE-BAB3-473D-85C4-7E095CD425C1} = {56C8D40B-6FB9-4761-A3FE-B36C0C693147}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E102560-D0A1-4790-B311-B224DAF29468}
+	EndGlobalSection
+EndGlobal
