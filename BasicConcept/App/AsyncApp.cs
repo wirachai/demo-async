@@ -29,7 +29,7 @@
 
         public async Task OptimizedProcessAsync()
         {
-            // call all steps
+            // call all independent steps
             var callingApi = CallApi();
             var callingQuery = CallQuery();
 
